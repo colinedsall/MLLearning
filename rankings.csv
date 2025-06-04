@@ -1,15 +1,14 @@
 Algorithm,Score
-Linear Regression with CV and Ridge Regularization,5.232965166251771
-K-Nearest Neighbors,8.495356738515685
-Decision Trees,6.016117421661209
-Random Forests,4.447851807272586
-Logistic Regression,
-AdaBoostRegressor,
-XGBRegressor,
-Naive Bayes (Gaussian),
-Naive Bayes (Multinomial),
-KNeighborsClassifier,
-DecisionTreeClassifier,
-RandomForestClassifier,
-AdaBoostClassifier,
-XGBClassifier,
+Logistic Regression,0.9784322576919054
+RandomForestClassifier,0.9780408528333343
+XGBClassifier,0.9774262652562044
+AdaBoostClassifier,0.9770353598973529
+KNeighborsClassifier,0.9711126668446134
+DecisionTreeClassifier,0.9666424877583545
+Naive Bayes (Gaussian),0.9440131680613636
+Linear Regression with CV and Ridge Regularization,-inf
+K-Nearest Neighbors,-inf
+Decision Trees,-inf
+Random Forests,-inf
+AdaBoostRegressor,-inf
+XGBRegressor,-inf
